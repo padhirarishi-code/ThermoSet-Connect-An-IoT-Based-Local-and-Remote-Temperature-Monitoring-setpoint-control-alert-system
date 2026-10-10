@@ -1,6 +1,8 @@
-<img width="500" height="1000" alt="thermoset" src="https://github.com/user-attachments/assets/48700079-ca8f-47d4-b509-45d80710313b" />
-<img width="960" height="1280" alt="AT24C256" src="https://github.com/user-attachments/assets/3bea5240-dd1b-4c3f-9616-fa9e1bd0e86e" />
-<img width="960" height="1280" alt="ESP01" src="https://github.com/user-attachments/assets/878b99a9-21dc-4840-a3c7-d30a3dea7e8f" />
+<img width="1280" height="960" alt="ESP01" src="https://github.com/user-attachments/assets/a665e371-fbea-487c-b283-861c7d04c4b1" />
+<img width="1280" height="960" alt="AT24C256" src="https://github.com/user-attachments/assets/b918725c-e19e-4ba3-936c-e1da112200ef" />
+<img width="1280" height="960" alt="thermoset" src="https://github.com/user-attachments/assets/d577941c-3cd1-4dec-8257-bc455fe96909" />
+<img width="831" height="557" alt="Screenshot 2026-10-11 000418" src="https://github.com/user-attachments/assets/3ba33abd-49ec-4224-bf04-4e81868e9bdf" />
+
 # ThermoSet Connect
 
 ### An IoT-Based Local and Remote Temperature Monitoring, Set-Point Control, and Alert System
