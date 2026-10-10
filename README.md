@@ -1,4 +1,4 @@
-<img width="960" height="1280" alt="thermoset" src="https://github.com/user-attachments/assets/48700079-ca8f-47d4-b509-45d80710313b" />
+<img width="500" height="1000" alt="thermoset" src="https://github.com/user-attachments/assets/48700079-ca8f-47d4-b509-45d80710313b" />
 <img width="960" height="1280" alt="AT24C256" src="https://github.com/user-attachments/assets/3bea5240-dd1b-4c3f-9616-fa9e1bd0e86e" />
 <img width="960" height="1280" alt="ESP01" src="https://github.com/user-attachments/assets/878b99a9-21dc-4840-a3c7-d30a3dea7e8f" />
 # ThermoSet Connect
