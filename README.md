@@ -135,14 +135,12 @@ then the ESP01 joins WiFi.
 4. Reconnect the ESP01, power on, and confirm the LCD shows the welcome message,
    then live temperature/time, then "WiFi connected".
 
-## 11. Demo
+## 11. BLOCK DIAGRAM
 <img width="831" height="557" alt="Screenshot 2026-10-11 000418" src="https://github.com/user-attachments/assets/3ba33abd-49ec-4224-bf04-4e81868e9bdf" />
 <img width="1280" height="960" alt="thermoset" src="https://github.com/user-attachments/assets/d577941c-3cd1-4dec-8257-bc455fe96909" />
 <img width="1280" height="960" alt="ESP01" src="https://github.com/user-attachments/assets/a665e371-fbea-487c-b283-861c7d04c4b1" />
 <img width="1280" height="960" alt="AT24C256" src="https://github.com/user-attachments/assets/b918725c-e19e-4ba3-936c-e1da112200ef" />
 
-*(Add photos of the wired hardware and/or a short demo video/GIF here before
-submitting -- e.g. docs/circuit.jpg, docs/demo.mp4, or a YouTube/Drive link.)*
 
 ## 12. Notes on Development
 
@@ -152,6 +150,3 @@ across reboots, implementing the remote/cloud set-point path from scratch, and f
 several ESP01 AT-command reliability issues found during real hardware testing
 (waiting for the '>' prompt correctly, a response-string typo, and stale-connection
 cleanup before retries).
-
----
-*** ALL THE BEST ***
