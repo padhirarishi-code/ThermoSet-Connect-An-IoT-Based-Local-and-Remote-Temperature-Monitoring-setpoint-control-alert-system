@@ -136,7 +136,7 @@ then the ESP01 joins WiFi.
    then live temperature/time, then "WiFi connected".
 
 ## 11. Demo
-
+ESP01
 *(Add photos of the wired hardware and/or a short demo video/GIF here before
 submitting -- e.g. docs/circuit.jpg, docs/demo.mp4, or a YouTube/Drive link.)*
 
